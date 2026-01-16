@@ -47,3 +47,8 @@ npm install
 ```bash
 npm start
 ```
+---
+
+## Сертификат
+
+![](sert.png)
